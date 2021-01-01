@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593202736193",
+    "project_id": "docscanner-9d235",
+    "storage_bucket": "docscanner-9d235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593202736193:android:271054f73cd0862a5a2ac0",
+        "android_client_info": {
+          "package_name": "com.example.docScanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593202736193-ijh62o85e7dlrblcevngmp70dvjb8f25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdXQ-mAm_8IPJRoCDsRGI10Mvd_NcYW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593202736193-ijh62o85e7dlrblcevngmp70dvjb8f25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
